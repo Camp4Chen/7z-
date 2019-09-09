@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipDemo", "ZipDemo\ZipDemo.csproj", "{D7024B70-6EB9-49E0-BA0A-3020B372D1C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7024B70-6EB9-49E0-BA0A-3020B372D1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7024B70-6EB9-49E0-BA0A-3020B372D1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7024B70-6EB9-49E0-BA0A-3020B372D1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7024B70-6EB9-49E0-BA0A-3020B372D1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6A55D0-EEC3-478F-A3D9-E9239DA3485C}
+	EndGlobalSection
+EndGlobal

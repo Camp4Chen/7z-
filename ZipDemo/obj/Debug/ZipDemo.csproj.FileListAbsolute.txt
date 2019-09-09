@@ -1,0 +1,14 @@
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\bin\Debug\7z.dll
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\bin\Debug\ZipDemo.exe.config
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\bin\Debug\ZipDemo.exe
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\bin\Debug\ZipDemo.pdb
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\bin\Debug\SevenZipSharp.dll
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\bin\Debug\SevenZipSharp.pdb
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\obj\Debug\ZipDemo.csprojAssemblyReference.cache
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\obj\Debug\ZipDemo.Form1.resources
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\obj\Debug\ZipDemo.Properties.Resources.resources
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\obj\Debug\ZipDemo.csproj.GenerateResource.cache
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\obj\Debug\ZipDemo.csproj.CoreCompileInputs.cache
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\obj\Debug\ZipDemo.csproj.CopyComplete
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\obj\Debug\ZipDemo.exe
+D:\work_file\camp_demo\ZipDemp\ZipDemo\ZipDemo\obj\Debug\ZipDemo.pdb
